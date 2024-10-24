@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+
+
+#button{
+    font-size: 3em;
+    background-color: aquamarine;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    
+
+}
+
+#label{
+    
+    font-size: 5em;
+    font-family: Helvetica;
+    
+}
